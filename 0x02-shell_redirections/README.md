@@ -1,1 +1,1 @@
-This is a project to change and manipulate files in Linux
+This project is about shell redirections
